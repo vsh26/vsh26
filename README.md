@@ -32,7 +32,7 @@
 
 <div align="center">
   
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=vsh26&theme=dark&hide_border=false)<br/>
+  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=vsh26&theme=dark)](https://git.io/streak-stats)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vsh26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
