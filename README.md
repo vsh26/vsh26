@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=500&height=80&lines=%24whoami;Vishal+Kapgate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3000&pause=500&vCenter=true&multiline=true&width=500&height=80&lines=%24whoami;Vishal+Kapgate)](https://git.io/typing-svg)
 
 ## 🧑‍💻 About Me
 - 🎓 **Computer Engineering Graduate**  
@@ -20,12 +20,6 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
-
-</div>
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=500&height=80&lines=More+technologies+and+products+loading...;Work+in+progress...+Stay+tuned...)](https://git.io/typing-svg) 
 
 </div>
 
