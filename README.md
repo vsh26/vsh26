@@ -7,7 +7,7 @@
 - 🎯 I want to learn: **Open Source Development, DevOps**  
 - 🤝 Ask me about: **Maths, JavaScript, Linux**
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 <div align="center">
   
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
@@ -19,6 +19,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 
 </div>
