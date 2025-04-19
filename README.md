@@ -33,6 +33,15 @@
 
 </div>
 
+## 📝 Blogs
+  
+<div align="center">
+
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](https://controlplusblog.hashnode.dev/)
+
+</div>
+
+
 ## ⚙️  Handy Linux Hack!
 
 🛠️ Since you visited my profile, here's a small tip as a gift for you:
