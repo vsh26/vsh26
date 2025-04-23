@@ -46,6 +46,7 @@
 
 - [Exploring Linux: Its Origins, Why It’s Different, and How It Compares to Windows and macOS](https://controlplusblog.hashnode.dev/exploring-linux-its-origins-why-its-different-and-how-it-compares-to-windows-and-macos)
 - [Why the Juice Seller at MacOS Gets the Order of a Linux User, But Windows Looks Confused](https://controlplusblog.hashnode.dev/why-the-juice-seller-at-macos-gets-the-order-of-a-linux-user-but-windows-looks-confused)
+- [Mastering SSH: Secure Remote Access with Keys and Configurations](https://controlplusblog.hashnode.dev/mastering-ssh-secure-remote-access-with-keys-and-configurations)
 
 ## ⚙️  Handy Linux Hack!
 
