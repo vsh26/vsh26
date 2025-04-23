@@ -39,6 +39,7 @@
 <div align="center">
 
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](https://controlplusblog.hashnode.dev/)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@vishalkapgate)
 
 </div>
 
