@@ -65,6 +65,8 @@
 >  This will re-run your last command with `sudo`.
 >  A lifesaver, isn't it? 😉
 
+Refer [this](https://github.com/vsh26/linux-commands), to learn more about Linux commands
+
 ---
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=vsh26&label=Profile+Views&color=blue"/>
